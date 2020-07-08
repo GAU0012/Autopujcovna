@@ -1,0 +1,19 @@
+﻿<root>
+  <NewFaktura idf="1">
+    <datum>2.1.2019 </datum>
+    <nazev>Faktura pro pana Kluza</nazev>
+    <cena>5000</cena>
+    <doplatek>1</doplatek>
+    <zakaznik>2</zakaznik>
+    <objednavka>1</objednavka>
+  </NewFaktura>
+  <NewFaktura idf="2">
+    <datum>6.10.2019 </datum>
+    <nazev>Faktura pro pana Martynka</nazev>
+    <cena>9000</cena>
+    <doplatek>2</doplatek>
+    <zakaznik>3</zakaznik>
+    <objednavka>1</objednavka>
+  </NewFaktura>
+</root>
+
